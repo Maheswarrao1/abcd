@@ -1,0 +1,16 @@
+
+
+
+
+
+1. fn + prt sc
+2 ctrl+f     find
+3 ctrl + q    comment
+4 fn + shift + left
+5 alt + tab  application
+6 ctrl + tab 		
+7 ctrl + w remove recent tab
+8 windows+ shift + s   screenshot
+9 Ctrl + Shift + T
+
+
